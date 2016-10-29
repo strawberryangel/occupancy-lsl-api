@@ -1,8 +1,7 @@
 {
-  "name": "occupancy-lsl-api",
-  "version": "3.0.0",
-  "description": "Occupancy HTTP API for LSL",
-  "main": "app.js",
+  "bugs": {
+    "url": "https://github.com/strawberryangel/occupancy-lsl-api/issues"
+  },
   "dependencies": {
     "@reactivex/rxjs": "^5.0.0-beta.11",
     "body-parser": "~1.0",
@@ -17,5 +16,15 @@
     "semver": "^5.3.0",
     "serve-static": "^1.11.1",
     "ws": "^1.1.1"
-  }
+  },
+  "description": "Occupancy HTTP API for LSL",
+  "homepage": "https://github.com/strawberryangel/occupancy-lsl-api",
+  "license": "CC-BY-SA-4.0",
+  "main": "app.js",
+  "name": "occupancy-lsl-api",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:strawberryangel/occupancy-lsl-api.git"
+  },
+  "version": "3.0.1"
 }
